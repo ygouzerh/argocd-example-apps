@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Service
 metadata:
-  name: guestbook-ui
+  name: guestbook-ui-svc
 spec:
   ports:
   - port: 80
